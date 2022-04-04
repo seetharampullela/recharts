@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.coverage-container {
+  background-color: #1c1c2b;
+  background-size: cover;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 15px;
+}
